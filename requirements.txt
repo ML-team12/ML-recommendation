@@ -3,3 +3,4 @@ scikit-learn
 tqdm
 numpy
 scipy
+faiss-cpu
