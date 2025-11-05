@@ -4,4 +4,8 @@ __pycache__/
 artifacts/
 artifacts_tfidf/
 faiss_results/
+results/.venv/
 results/
+results2/
+faiss_results/
+artifacts_hybrid/
